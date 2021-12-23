@@ -1,0 +1,8 @@
+This program uses only the standard modules that come with Python; no other installations are required.
+
+It's a good idea to keep the program in its own "beans" folder as it creates a new folder for its files within. You can move it elsewhere but its a good idea in terms of organisation to keep it in a separate folder.
+
+Other than that, have fun! - I'll probably update this from time to time along with everything else I post in this repo.
+
+
+~Charlie
